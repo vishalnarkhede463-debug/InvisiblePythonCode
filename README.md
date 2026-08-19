@@ -158,7 +158,7 @@ Inspired by the classic "Harry Potter Invisibility Cloak" OpenCV tutorials used 
 
 [![GitHub](https://img.shields.io/badge/GitHub-vishalnarkhede463--debug-181717?logo=github&logoColor=white)](https://github.com/vishalnarkhede463-debug)
 [![Instagram](https://img.shields.io/badge/Instagram-jerry__boy__658-E4405F?logo=instagram&logoColor=white)](https://instagram.com/jerry_boy_658)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal%20Narkhede-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-narkhede)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal%20Narkhede-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalnarkhede463)
 
 > 💬 LinkedIn link is a best guess based on your name — if your actual profile URL/username is different, just send it and I'll update it.
 
