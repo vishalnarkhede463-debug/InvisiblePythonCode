@@ -16,15 +16,7 @@ A fun computer vision project built with **Python** and **OpenCV** that recreate
 > Add a screenshot or GIF of the effect in action here once you record one.
 > Example placeholder (replace with your own `assets/demo.gif` or `assets/screenshot.png`):
 
-```markdown
-![Demo](assets/demo.gif)
-```
 
-| Before (Normal Frame) | After (Cloak Effect) |
-|---|---|
-| ![before](assets/before.png) | ![after](assets/after.png) |
-
-*(Save two screenshots — one with the blue cloth visible, one with it "invisible" — inside an `assets/` folder and update the paths above.)*
 
 ---
 
@@ -160,6 +152,6 @@ Inspired by the classic "Harry Potter Invisibility Cloak" OpenCV tutorials used 
 [![Instagram](https://img.shields.io/badge/Instagram-jerry__boy__658-E4405F?logo=instagram&logoColor=white)](https://instagram.com/jerry_boy_658)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal%20Narkhede-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalnarkhede463)
 
-> 💬 LinkedIn link is a best guess based on your name — if your actual profile URL/username is different, just send it and I'll update it.
+
 
 ⭐ If you like this project, don't forget to star the repo on GitHub!
